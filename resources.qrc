@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/room1_bg.png</file>
+        <file>images/sprite_back.png</file>
+        <file>images/sprite_forward.png</file>
+        <file>images/sprite_left.png</file>
+        <file>images/sprite_right.png</file>
+        <file>images/main_menu.png</file>
+        <file>images/exit.png</file>
+        <file>images/new_game.png</file>
+        <file>jumpscares/image1.jpg</file>
+        <file>jumpscares/image2.jpg</file>
+        <file>jumpscares/image3.jpg</file>
+        <file>jumpscares/image4.jpg</file>
+        <file>jumpscares/image5.jpg</file>
+        <file>jumpscares/image6.jpg</file>
+        <file>jumpscares/image7.jpg</file>
+        <file>jumpscares/image8.jpg</file>
+        <file>jumpscares/image9.jpg</file>
+        <file>jumpscares/image10.jpg</file>
+        <file>jumpscares/image11.jpg</file>
+        <file>jumpscares/image12.jpg</file>
+        <file>horror_music/background_music1.mp3</file>
+        <file>horror_music/horror-background-atmosphere-for-suspenseful-moments-166944.mp3</file>
+        <file>horror_music/horror-monster-sound-checking-territory-vol-002-149440.mp3</file>
+        <file>horror_music/horror-sound-dark-ambient-189961.mp3</file>
+        <file>horror_music/horror-sound-lurking-horror-monster-189948.mp3</file>
+        <file>horror_music/intense-horror-music-01-14890.mp3</file>
+        <file>horror_music/lurking-horror-monster-143278.mp3</file>
+        <file>horror_music/monster-howl-85304.mp3</file>
+        <file>horror_music/scary-horror-sound-189949.mp3</file>
+        <file>horror_music/background_main.mp3</file>
+    </qresource>
+    <qresource prefix="/sounds"/>
+</RCC>
