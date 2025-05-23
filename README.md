@@ -52,10 +52,6 @@ As part of the development team, I was primarily responsible for the gameplay po
 - Current solution uses keyboard-based fallback input instead of voice-based gameplay.
 - GraphicsScene UI positioning is static and may require dynamic scaling improvements.
 
-## Screenshots
-
-Included in the repository is a visual snapshot of the project folder and challenge overlay.
-
 ## License
 
-This project is part of CS3307A – Object-Oriented Design and Analysis at Western University. For academic use only.
+This project is part of CS3307B – Object-Oriented Design and Analysis at Western University. For academic use only.
